@@ -16,4 +16,4 @@ I personnally prefer it because it allows to define slots more easily when loadi
 
 ### Alright, but why not use the uic to generate Python code?
 
-I prefer to load ui files directly so that there are no build steps prior to run the code. It makes it way easier in IDE, where the play button becomes sufficient.
+I prefer to load ui files directly so that there are no build steps prior to running the code. It makes it way easier in IDE, where the play button becomes sufficient.
